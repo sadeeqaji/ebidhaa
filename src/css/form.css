@@ -1,0 +1,17 @@
+.select {
+  display: flex;
+  background-color: #ffffff;
+  height: 40px;
+  border-radius: 6px;
+  margin: 0px 5px 0px;
+}
+
+.select-icon {
+  align-self: center;
+  padding: 0px 8px 0px;
+}
+
+select {
+  border-style: none;
+  width: 90%;
+}

@@ -1,0 +1,55 @@
+.nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.nav-text-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.nav-text {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 32px;
+  line-height: 48px;
+  color: #000000;
+}
+
+.get-food {
+  width: 50%;
+  margin-top: 100px;
+}
+
+.input-container {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.w-70 {
+  width: 70%;
+}
+
+.w-25 {
+  width: 25%;
+}
+
+.popular {
+  margin-top: 40px;
+}
+
+.category {
+  margin-top: 80px;
+}
+
+.get-app{
+    display: flex;
+    height: 200px;
+    align-items: center;
+    justify-content: center;
+}
+

@@ -1,0 +1,12 @@
+.group-1 {
+    background-image: url("../svg/Group-2.svg");
+    background-size: cover;
+    mix-blend-mode: luminosity;
+    opacity: 0.4;
+    background-repeat: no-repeat;
+    padding: var(--pad-padding);
+    padding-top: 25px;
+    min-height: 100vh;
+    height: 100%;
+  }
+  

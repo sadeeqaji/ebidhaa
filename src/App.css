@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins&display=swap");
+@import "~slick-carousel/slick/slick.css"; 
+@import "~slick-carousel/slick/slick-theme.css";
+
+@import "./css/base.css";
+@import "./css/home.css";
+@import "./css/button.css";
+@import "./css/form.css";
+@import "./css/footer.css";
+@import "./css/card.css"

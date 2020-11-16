@@ -1,0 +1,52 @@
+:root {
+  --sec-color: #2f5bea;
+  --pri-color: #f6f8f9;
+  --alt-text: #7e8085;
+  --border-color: #e7eaee;
+  --pri-font: "Poppins", sans-serif;
+  --pad-padding: 0px 40px 0px;
+}
+* {
+  font-family: var(--pri-font);
+  font-size: 16px;
+  margin: 0px;
+}
+
+.body{
+  padding: var(--pad-padding);
+  padding-bottom: 40px;
+}
+
+header {
+  background-image: url("../img/burger.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: var(--pad-padding);
+  padding-top: 50px;
+  height: 100vh;
+}
+
+.big-text {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 72px;
+  color: #000000;
+}
+
+.bg-text-white {
+  font-style: normal;
+  text-align: center;
+  font-size: 100px;
+  font-weight: 500;
+  font-size: 40px;
+  line-height: 72px;
+  color: #ffffff;
+}
+
+button:focus {outline:0 !important;}
+
+.full-width{
+  width: 100vw;
+}

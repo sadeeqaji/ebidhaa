@@ -1,0 +1,66 @@
+.card-title {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 161.2%;
+  color: #000000;
+}
+
+.card-desc {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.card-with-overlay-text {
+  margin: 0px 6px 0px;
+  border-radius: 20px;
+}
+
+.overlay-text {
+  font-style: normal;
+  font-weight: 500;
+  font-size: 30px;
+  line-height: 48px;
+  color: #ffffff;
+}
+
+.discount-text {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 48px;
+    color: #ffffff;
+  }
+
+.center {
+  text-align: center;
+  display: flexbox;
+  align-self: center;
+}
+
+.slider-btn-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.slider-caption {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.slider-btn {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.font-20{
+    font-size: 20;
+}
